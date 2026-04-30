@@ -17,7 +17,7 @@ I am a **Software Engineer** based in KL, Malaysia. I graduated from **Asia Paci
 
 ### 📂 My Projects
 
-#### 1. SnapPOS
+#### 1. SnapPOS ([snappos.vercel.app](https://snappos.vercel.app/))
 *A web-based POS system designed for small vendors transitioning from manual paper tracking.*
 - **Core Tech:** Next.js, Vercel, MongoDB Atlas.
 - **Key Features:** Digital receipt generation, automated email receipts, and monthly sales reports.
