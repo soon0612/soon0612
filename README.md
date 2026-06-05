@@ -1,7 +1,7 @@
 # Hi there! I'm Soon 👋
 
 ### Full-Stack Software Engineer
-I am a **Software Engineer** based in KL, Malaysia. I graduated from **Asia Pacific University (APU)** with a Bachelor of Science (Honours) in Computer Science. I build scalable applications and solving real-world business problems through code.
+**Software Engineer** based in KL, Malaysia
 
 ---
 
